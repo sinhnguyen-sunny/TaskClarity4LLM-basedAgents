@@ -15,3 +15,7 @@ The challenge of achieving task clarity for LLM-based Agents involves enabling t
 ### Current Solution
 
 [Link to Solution](https://github.com/sinhnguyen-sunny/TaskClarity4LLM-basedAgents/blob/main/TaskIntentClasifficationExperiments.ipynb).
+
+### Current Demo
+
+[Link to Demo](https://huggingface.co/spaces/SinhNguyen/TaskClarity4LLM-basedAgents).
