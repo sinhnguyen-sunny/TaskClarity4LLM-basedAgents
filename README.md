@@ -4,11 +4,11 @@ The challenge of achieving task clarity for LLM-based Agents involves enabling t
 
 ### Example:
 
-- **Client Input:** "Find for me the current top 1 YouTube Trending."
+- **Client Input:** "Find for me a product in a website."
 - **Expected Output:**
 
   ```python
-  {'task_type': 'Code generation', 'scores': > 0.2, 'inference_time': < 10 s}
+  {'task_type': 'Information retrieval', 'scores': > 0.2, 'inference_time': < 10 s}
 
   ```
 
