@@ -1,0 +1,8 @@
+transformers[sentencepiece]~=4.33.0
+datasets~=2.14.0
+accelerate~=0.23.0
+wandb~=0.15.0
+mdutils~=1.6.0
+scikit-learn~=1.2.0
+sentencepiece
+optuna~=3.3.0
